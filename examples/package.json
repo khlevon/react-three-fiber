@@ -15,7 +15,7 @@
     "@testing-library/user-event": "^12.1.8",
     "arraybuffer-loader": "^1.0.8",
     "cannon": "^0.6.2",
-    "drei": "^1.5.7",
+    "drei": "git+https://github.com/khlevon/drei#900fc5035a9844d12d5b2c685e2bf69262f61115",
     "react": "17.0.0",
     "react-dom": "17.0.0",
     "react-merge-refs": "^1.1.0",
