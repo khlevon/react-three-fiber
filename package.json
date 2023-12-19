@@ -24,12 +24,12 @@
     "type": "opencollective",
     "url": "https://opencollective.com/react-three-fiber"
   },
-  "main": "web.cjs.js",
-  "module": "web.js",
-  "react-native": "native.js",
-  "types": "targets/web.d.ts",
+  "main": "dist/web.cjs.js",
+  "module": "dist/web.js",
+  "react-native": "dist/native.js",
+  "types": "dist/targets/web.d.ts",
   "files": [
-    "**"
+    "dist/**"
   ],
   "sideEffects": false,
   "husky": {
